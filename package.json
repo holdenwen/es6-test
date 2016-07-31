@@ -24,7 +24,8 @@
     "babel-preset-stage-0": "^6.5.0",
     "babel-register": "^6.7.2",
     "gulp": "^3.9.1",
-    "gulp-uglify": "^1.5.4"
+    "gulp-uglify": "^1.5.4",
+    "webpack": "^1.13.1"
   },
   "babel": {
     "presets": [
